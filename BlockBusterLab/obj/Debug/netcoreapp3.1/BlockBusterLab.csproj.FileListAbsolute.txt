@@ -1,0 +1,4 @@
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.csprojAssemblyReference.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.AssemblyInfo.cs
